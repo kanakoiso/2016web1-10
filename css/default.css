@@ -75,6 +75,6 @@ footer{
    #main:after{
       content:"";
       display: block;
-      claer:both
+      clear:both
    }
 }
